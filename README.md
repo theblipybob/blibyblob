@@ -1,11 +1,10 @@
-# Hey there! 👋
+# Hello There! 👋
 
-I'm sara, a first-year Computer Engineering student with a passion for all things tech! Welcome to my GitHub profile, where I'm on a mission to explore, learn, and create cool stuff.
+I'm sara, a first-year Computer Engineering student diving into the world of tech. Welcome to my GitHub!
 
 ## About Me
 
-- 🌟 **Passionate Learner:** Always eager to dive into new technologies and expand my skill set.
-- 💻 **Coding Enthusiast:** Proficient in c/java and constantly improving.
-- 🔧 **Tech Tinkerer:** Love getting my hands dirty with hardware and software projects.
-- 🚀 **Aspiring Innovator:** Dreaming big and working hard to turn ideas into reality.
-- 🌐 **Open to Collaboration:** Let's team up and build something amazing together!
+- 🌟 **Passionate Learner:** Always curious and eager to learn new things.
+- 💻 **Coding Enthusiast:** Currently learning C and JAVA
+- 🔧 **Tech Explorer:** Excited to explore hardware and software projects.
+- 🚀 **Aspiring Developer:** Dreaming of creating cool stuff with code.
